@@ -21,15 +21,10 @@ export const ContextoUsuario = createContext();
 function App() {
     const dispatch = useDispatch();
     const [usuario, setUsuario] = useState({
-        "nome": "luiz",
-        "perfil": "Admin",
-        "logado": true
+        "nome": "",
+        "perfil": "",
+        "logado": false
     });
-    // const [usuario, setUsuario] = useState({
-    //     "nome": "",
-    //     "perfil": "",
-    //     "logado": false
-    // });
 
     useEffect(() => {
         const repositorio = async () => {

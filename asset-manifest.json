@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/LP2-Sistema2/static/css/main.d221dc40.css",
-    "main.js": "/LP2-Sistema2/static/js/main.f3b542da.js",
-    "static/media/imagem404.png": "/LP2-Sistema2/static/media/imagem404.22e922b752c5cf81dc1e.png",
+    "main.js": "/LP2-Sistema2/static/js/main.356915e9.js",
+    "static/media/imagem404.png": "/LP2-Sistema2/static/media/imagem404.c3f7c94704e248ba5b73.png",
     "index.html": "/LP2-Sistema2/index.html",
     "main.d221dc40.css.map": "/LP2-Sistema2/static/css/main.d221dc40.css.map",
-    "main.f3b542da.js.map": "/LP2-Sistema2/static/js/main.f3b542da.js.map"
+    "main.356915e9.js.map": "/LP2-Sistema2/static/js/main.356915e9.js.map"
   },
   "entrypoints": [
     "static/css/main.d221dc40.css",
-    "static/js/main.f3b542da.js"
+    "static/js/main.356915e9.js"
   ]
 }
